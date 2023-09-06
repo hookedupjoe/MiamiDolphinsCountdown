@@ -1,0 +1,22 @@
+
+
+@font-face {
+    font-family: 'MyFont';
+    src: url('res/OPTIVenusBold-Condensed.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+body {
+    background-color: #008E97;
+    color: #FC4C02;
+}
+
+.site-layout-center, .ui-layout-container{
+    background-color: #008E97 !important;
+}
+
+.time {
+    color:white;
+}
