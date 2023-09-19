@@ -67,7 +67,7 @@ thisPageSpecs.required = {
 //   $('html').css('background-color','#008E97');
 // })
 
-var countDownDate = new Date('Sep 10 2023 20:25:00 GMT');
+var countDownDate = new Date('Sep 24 2023 17:00:00 GMT');
 var x = setInterval(function() {
 
   // Get today's date and time
